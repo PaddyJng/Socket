@@ -1,0 +1,5 @@
+C:\C#\Socket-Test\Console\Client\bin\Debug\Client.exe.config
+C:\C#\Socket-Test\Console\Client\bin\Debug\Client.exe
+C:\C#\Socket-Test\Console\Client\bin\Debug\Client.pdb
+C:\C#\Socket-Test\Console\Client\obj\Debug\Client.exe
+C:\C#\Socket-Test\Console\Client\obj\Debug\Client.pdb

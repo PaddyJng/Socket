@@ -1,0 +1,6 @@
+C:\C#\Socket-Test\Console\Server\bin\Debug\Server.exe.config
+C:\C#\Socket-Test\Console\Server\bin\Debug\Server.exe
+C:\C#\Socket-Test\Console\Server\bin\Debug\Server.pdb
+C:\C#\Socket-Test\Console\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\C#\Socket-Test\Console\Server\obj\Debug\Server.exe
+C:\C#\Socket-Test\Console\Server\obj\Debug\Server.pdb
